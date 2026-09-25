@@ -1,4 +1,4 @@
-.hero-banner { background: linear-gradient(90deg, rgba(16, 43, 37, .9), rgba(16, 43, 37, .48)), url("https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85") center / cover; }
+.hero-banner { background: linear-gradient(90deg, rgba(16, 43, 37, .52), rgba(16, 43, 37, .18)), url("https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85") center / cover !important; }
 :root {
   --ink: #10201d;
   --ink-soft: #53615c;
