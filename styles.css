@@ -17,7 +17,7 @@
   --shadow: 0 12px 34px rgba(29, 49, 42, .06);
 }
 * { box-sizing: border-box; }
-body { margin: 0; color: var(--ink); background: var(--paper); font-family: "DM Sans", sans-serif; font-size: 14px; }
+body { margin: 0; color: var(--ink); background: linear-gradient(rgba(247, 248, 245, .78), rgba(247, 248, 245, .78)), url("https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=2000&q=85") center / cover fixed; font-family: "DM Sans", sans-serif; font-size: 14px; }
 button, input { font: inherit; }
 button { cursor: pointer; }
 .app-shell { display: flex; min-height: 100vh; }
